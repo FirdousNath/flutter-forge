@@ -153,5 +153,5 @@ Happy Coding, and let's get started on your journey from **Novice to Pro** in Fl
 
 ### **Next Steps**
 
-- [Start with the Clean Architecture Article](#)  
+- [Start with the Clean Architecture Article](https://medium.com/@firunath/clean-architecture-in-flutter-a-simple-guide-for-beginners-f4b77702e94a)  
   _Learn how to set up Clean Architecture in your Flutter projects and build scalable, maintainable apps._
