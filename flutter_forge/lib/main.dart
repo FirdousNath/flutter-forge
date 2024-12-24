@@ -1,7 +1,10 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_forge/presentation/screens/post_list_screens.dart';
+import 'package:flutter_forge/utility/di.dart';
 
 void main() {
   runApp(const MyApp());
+  setupDI();
 }
 
 class MyApp extends StatelessWidget {
@@ -15,16 +18,7 @@ class MyApp extends StatelessWidget {
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
         useMaterial3: true,
       ),
-      home: Scaffold(
-        appBar: AppBar(
-          title: const Text('Flutter Forge'),
-          backgroundColor: Colors.deepPurple,
-          foregroundColor: Colors.white,
-        ),
-        body: const Center(
-          child: Text('Craft your app skills'),
-        ),
-      ),
+      home: const PostListScreen(),
     );
   }
 }
