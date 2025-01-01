@@ -21,8 +21,10 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
-
+  bdd_widget_test: ^1.7.6
+  build_runner: ^2.4.14
   flutter_lints: ^4.0.0
+  mocktail: ^1.0.4
 
 flutter:
   uses-material-design: true

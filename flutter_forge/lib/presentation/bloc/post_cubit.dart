@@ -13,7 +13,7 @@ class PostCubit extends Cubit<PostState> {
       final posts = await getPostsUseCase.execute();
       emit(PostLoaded(posts));
     } catch (e) {
-      emit(PostError(e.toString()));
+      emit(PostError("Api failed error"));
     }
   }
 }
