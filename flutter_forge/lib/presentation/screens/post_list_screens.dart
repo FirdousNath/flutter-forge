@@ -30,7 +30,9 @@ class PostListScreen extends StatelessWidget {
                   },
                 );
               } else if (state is PostError) {
-                return Center(child: Text('Error: ${state.message}'));
+                return Center(
+                  child: Text(state.message),
+                );
               }
               return const Center(child: Text('Start Fetching Posts!'));
             },

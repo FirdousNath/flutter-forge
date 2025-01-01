@@ -1,0 +1,11 @@
+targets:
+  $default:
+    builders:
+      bdd_widget_test|featureBuilder:
+        options:
+          externalSteps:
+            - package:bdd_widget_test/step/i_see_text.dart
+            - package:bdd_widget_test/step/i_dont_see_text.dart
+            - package:bdd_widget_test/step/i_see_widget.dart
+            - package:bdd_widget_test/step/i_dont_see_widget.dart
+            - package:bdd_widget_test/step/i_wait.dart
