@@ -1,4 +1,3 @@
-
 Feature: Posts
     Scenario: Users should see list of Posts
     Given the app is running
@@ -7,8 +6,7 @@ Feature: Posts
     Then I see posts list
     And I dont see {CircularProgressIndicator} widget
 
-    Scenario: Users should see error while fetching post
+    Scenario: Users should see error while fetching posts
     Given the app is running {sendError:true}
     Then I see {"Api failed error"} text
     And I dont see {CircularProgressIndicator} widget
-        

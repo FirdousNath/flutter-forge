@@ -20,7 +20,7 @@ void main() {
       await iSeePostsList(tester);
       await iDontSeeWidget(tester, CircularProgressIndicator);
     });
-    testWidgets('''Users should see error while fetching post''',
+    testWidgets('''Users should see error while fetching posts''',
         (tester) async {
       await theAppIsRunning(tester, sendError: true);
       await iSeeText(tester, "Api failed error");
