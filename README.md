@@ -153,9 +153,11 @@ Happy Coding, and let's get started on your journey from **Novice to Pro** in Fl
 
 ### **Read Medium articles**
 
-- [Start with the Clean Architecture Article](https://medium.com/@firunath/clean-architecture-in-flutter-a-simple-guide-for-beginners-f4b77702e94a)  
-  _Learn how to set up Clean Architecture in your Flutter projects and build scalable, maintainable apps._
+- [Start with the Clean Architecture Article](https://medium.com/@firunath/clean-architecture-in-flutter-a-simple-guide-for-beginners-f4b77702e94a)  _Learn how to set up Clean Architecture in your Flutter projects and build scalable, maintainable apps._
 
 - [Master Get_it for Flutter Dependency Injection: A Step-by-Step Tutorial](https://medium.com/@firunath/dependency-injection-made-easy-with-get-it-step-by-step-flutter-tutorial-1d02e39da885) _Because every great app deserves a clean, scalable & testable structure._
 
 - [Behaviour-Driven Development (BDD) in Flutter: A practical guide with example](https://medium.com/@firunath/behaviour-driven-development-bdd-in-flutter-a-practical-guide-with-example-215d71939c52) _It involves writing test scenarios using Gherkin syntax, which describes apps behaviour in Given-When-Then terms._
+
+- [Supercharge your Flutter workflow with mason_cli 🚀](https://medium.com/@firunath/supercharge-your-flutter-workflow-with-mason-cli-5aefad7ae04c) _Turn your coding grind into a breeze - mason_cli automates the boring stuff so you can focus on the fun!_
+
