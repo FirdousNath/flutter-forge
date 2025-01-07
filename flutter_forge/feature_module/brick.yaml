@@ -1,0 +1,5 @@
+name: feature_module
+description: Generate a Flutter feature module with clean architecture.
+version: 0.1.0+1
+vars:
+  - name
