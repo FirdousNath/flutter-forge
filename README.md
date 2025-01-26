@@ -1,6 +1,6 @@
 # **Flutter Forge: Craft your app skills**
 
-Welcome to this step-by-step series on mastering Flutter development! This series covers key concepts and tools that every Flutter developer should know, and provides in-depth articles that will guide you from beginner to pro. Whether you're looking to build clean, scalable architecture, or leverage powerful libraries for code generation, testing, and localization, this series has something for everyone.
+Welcome to this step-by-step series on mastering Flutter development! This series covers key concepts and tools that every Flutter developer should know, and provides in-depth articles that will guide you from beginner to pro. Whether you're looking to build clean, scalable architecture or leverage powerful libraries for code generation, testing or localization, this series has something for everyone.
 
 In each article, we'll explore a specific topic, explaining the theory behind it and showing you practical implementation examples that you can apply to your Flutter projects right away.
 
@@ -18,7 +18,6 @@ In each article, we'll explore a specific topic, explaining the theory behind it
   - Dependency Injection
   - Layered Architecture
   - Separation of Concerns
-  - Unit Testing
 
 ### 2. **Getting Started with `get_it` for Dependency Injection**
 
@@ -67,19 +66,7 @@ In each article, we'll explore a specific topic, explaining the theory behind it
   - Code Generation for Models
   - Combining with `json_serializable`
 
-### 6. **Networking Simplified with `retrofit`**
-
-- **What will you learn?**
-  - How to make HTTP requests and handle API responses in a clean and efficient way using `retrofit`.
-  - Setting up Retrofit and combining it with `dio` for API communication.
-  - Creating strongly-typed requests and responses, and handling errors gracefully.
-- **Key Concepts:**
-  - Retrofit Package Setup
-  - API Communication in Flutter
-  - Request and Response Handling
-  - `dio` Integration
-
-### 7. **Internationalization and Localization with `i18n`**
+### 6. **Internationalization and Localization with `i18n`**
 
 - **What will you learn?**
   - How to localize your Flutter app to support multiple languages and regions using `intl` and `i18n` strategies.
@@ -90,18 +77,6 @@ In each article, we'll explore a specific topic, explaining the theory behind it
   - Managing Translations
   - `i69n` Package Integration
   - Handling RTL and LTR Layouts
-
-### 8. **Mocking with `mocktail` for Unit Testing**
-
-- **What will you learn?**
-  - How to write effective unit tests by mocking dependencies using `mocktail`.
-  - Best practices for testing business logic without relying on real data sources.
-  - Improving test coverage and ensuring your code is robust and error-free.
-- **Key Concepts:**
-  - Mocking Dependencies
-  - Unit Testing in Flutter
-  - `mocktail` Package
-  - Test-Driven Development (TDD)
 
 ---
 
@@ -135,21 +110,6 @@ In each article, we'll explore a specific topic, explaining the theory behind it
 
 ---
 
-## **Feedback & Community**
-
-- Have questions or feedback? Feel free to reach out through comments on each article, or email me at [firunath@gmail.com](mailto:firunath@gmail.com).
-
----
-
-## **Contributing**
-
-If you find something that could be improved, feel free to submit a pull request or open an issue on this repository. Suggestions for new topics or improvements to existing ones are always welcome!
-
----
-
-Happy Coding, and let's get started on your journey from **Novice to Pro** in Flutter!
-
----
 
 ### **Read Medium articles**
 
@@ -163,3 +123,16 @@ Happy Coding, and let's get started on your journey from **Novice to Pro** in Fl
 
 - [Simplify your Flutter models with Freezed](https://medium.com/@firunath/simplify-your-flutter-models-with-freezed-6daac690e0f3) _Dart is awesome, but admit it — defining a “model” can sometimes be a pain._
 
+---
+
+## **Feedback & Community**
+
+- Have questions or feedback? Feel free to reach out through comments on each article, or email me at [firunath@gmail.com](mailto:firunath@gmail.com).
+
+
+
+## **Contributing**
+
+If you find something that could be improved, feel free to submit a pull request or open an issue on this repository. Suggestions for new topics or improvements to existing ones are always welcome!
+
+Happy Coding, and let's get started on your journey from **Novice to Pro** in Flutter!
