@@ -161,3 +161,5 @@ Happy Coding, and let's get started on your journey from **Novice to Pro** in Fl
 
 - [Supercharge your Flutter workflow with mason_cli 🚀](https://medium.com/@firunath/supercharge-your-flutter-workflow-with-mason-cli-5aefad7ae04c) _Turn your coding grind into a breeze - mason_cli automates the boring stuff so you can focus on the fun!_
 
+- [Simplify your Flutter models with Freezed](https://medium.com/@firunath/simplify-your-flutter-models-with-freezed-6daac690e0f3) _Dart is awesome, but admit it — defining a “model” can sometimes be a pain._
+
