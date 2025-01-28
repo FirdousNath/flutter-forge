@@ -19,9 +19,12 @@ dependencies:
   freezed_annotation: ^2.4.4
   get_it: ^7.6.0
   json_annotation: ^4.9.0
+  i69n: ^3.0.0
 
 dev_dependencies:
   flutter_test:
+    sdk: flutter
+  flutter_localizations:
     sdk: flutter
   bdd_widget_test: ^1.7.6
   build_runner: ^2.4.14
